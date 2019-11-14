@@ -1,0 +1,16 @@
+/* 
+* This is the default styling that the BlackjackTabletopGUI uses.
+*/
+
+.label{
+	-fx-font-weight: bold;
+	-fx-text-fill: white;
+}
+
+.button{
+	-fx-color: #e34634;
+}
+
+.board-background{
+	-fx-background-color: forestgreen;
+}
